@@ -1,0 +1,23 @@
+Note: A positive whole number ‘n’ that has ‘d’ number of digits is squared and split into two pieces, a right-hand piece that has ‘d’ digits and a left-hand piece that has remaining ‘d’ or ‘d-1’ digits.
+
+If the sum of the two pieces is equal to the number, then ‘n’ is a Kaprekar number. The first few Kaprekar numbers are: 9, 45, 297 ……..
+
+Example 1: 9
+
+92  = 81, right-hand piece of 81 = 1 and left hand piece of 81 = 8
+
+Sum = 1 + 8 = 9, i.e. equal to the number. Hence, 9 is a Kaprekar number.
+
+Example 2: 45
+
+452 = 2025, right-hand piece of 2025 = 25 and left hand piece of 2025 = 20
+
+Sum = 25 + 20 = 45, i.e. equal to the number. Hence, 45 is a Kaprekar number.
+
+Example 3: 297
+
+2972 = 88209, right-hand piece of 88209 = 209 and left hand piece of 88209 = 88
+
+Sum = 209 + 88 = 297, i.e. equal to the number. Hence, 297 is a Kaprekar number.
+
+here you have a list of numnber give only those which are kaprekar nb.

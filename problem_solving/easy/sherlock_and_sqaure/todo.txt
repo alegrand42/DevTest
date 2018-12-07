@@ -1,0 +1,1 @@
+[a..b] -> count nb which are square
