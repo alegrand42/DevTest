@@ -30,7 +30,7 @@
 | [Save The Prisonner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)           |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)         |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
-| [Sherlock And Square](https://www.hackerrank.com/challenges/sherlock-and-array/problem)         |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |
+| [Sherlock And Square](https://www.hackerrank.com/challenges/sherlock-and-square/problem)        |    easy       |        &#9745;        |        &#9745;        |       &#9745;         |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)              |    easy       |        &#9745;        |        &#9745;        |       &#9745;         |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                            |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                |    easy       |        &#9744;        |        &#9745;        |       &#9745;         |
