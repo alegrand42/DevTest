@@ -37,4 +37,5 @@
 | [Magic Square](https://www.hackerrank.com/challenges/staircase/problem)                         |    medium     |        &#9744;        |        &#9744;        |       &#9745;         |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                          |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |
+| [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)                           |    easy       |        &#9744;        |        &#9744;        |       &#9745;         |
 
