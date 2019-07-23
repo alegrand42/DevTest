@@ -14,7 +14,7 @@
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)                  |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)          |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)              |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
-| [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                  |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
+| [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                  |    easy       |        &#9745;        |        &#9744;        |       &#9745;         |
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)                |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |
 | [Compare Array](https://www.hackerrank.com/challenges/solve-me-first/problem)                   |    easy       |        &#9744;        |        &#9744;        |       &#9745;         |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)      |    easy       |        &#9745;        |        &#9745;        |       &#9745;         |
