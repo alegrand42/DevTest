@@ -6,7 +6,7 @@
 - [x] Analytic reports.
 - [ ] Hrank.
 
-## Hackerrank Code
+## H Code
 
 | Challenge                                                                                       | Difficulty    |          Ruby         |       Javascript      |          Java         |     Elixir            |         Go            |
 | ----------------------------------------------------------------------------------------------- |:-------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------------|
@@ -27,6 +27,7 @@
 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Lisa Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)                    |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Minimum Distance](https://www.hackerrank.com/challenges/lisa-workbook/problem)                 |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Quicksort1](https://www.hackerrank.com/challenges/quicksort1/problem)                          |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9745;         |
 | [Save The Prisonner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)           |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)         |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
