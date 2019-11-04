@@ -34,6 +34,7 @@
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)              |    easy       |        &#9745;        |        &#9745;        |       &#9745;         |        &#9745;        |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                            |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9745;        |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                |    easy       |        &#9744;        |        &#9745;        |       &#9745;         |        &#9745;        |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                      |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9745;        |
 | [Magic Square](https://www.hackerrank.com/challenges/staircase/problem)                         |    medium     |        &#9744;        |        &#9744;        |       &#9745;         |        &#9745;        |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                          |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9745;        |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9745;        |
