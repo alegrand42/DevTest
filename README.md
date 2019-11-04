@@ -4,9 +4,9 @@
 ## Todolist
 
 - [x] Analytic reports.
-- [ ] Hackerrank.
+- [ ] Hrank.
 
-## Hackerrank Code
+## H Code
 
 | Challenge                                                                                       | Difficulty    |          Ruby         |       Javascript      |          Java         |     Elixir            |         Go            |
 | ----------------------------------------------------------------------------------------------- |:-------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------------|
@@ -27,6 +27,7 @@
 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Lisa Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)                    |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Minimum Distance](https://www.hackerrank.com/challenges/lisa-workbook/problem)                 |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Quicksort1](https://www.hackerrank.com/challenges/quicksort1/problem)                          |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9745;         |
 | [Save The Prisonner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)           |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)         |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
@@ -34,7 +35,7 @@
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)              |    easy       |        &#9745;        |        &#9745;        |       &#9745;         |        &#9744;        |       &#9744;         |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                            |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                |    easy       |        &#9744;        |        &#9745;        |       &#9745;         |        &#9744;        |       &#9744;         |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                      |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9745;         |
 | [Magic Square](https://www.hackerrank.com/challenges/staircase/problem)                         |    medium     |        &#9744;        |        &#9744;        |       &#9745;         |        &#9744;        |       &#9744;         |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                          |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
-
