@@ -10,7 +10,7 @@
 
 | Challenge                                                                                       | Difficulty    |          Ruby         |       Javascript      |          Java         |     Elixir            |         Go            |
 | ----------------------------------------------------------------------------------------------- |:-------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------------|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                  |    easy       |        &#9745;        |        &#9744;        |       &#9745;         |       &#9744;         |       &#9744;         |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                  |    easy       |        &#9745;        |        &#9744;        |       &#9745;         |       &#9745;         |       &#9745;         |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)                  |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |       &#9744;         |       &#9744;         |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)          |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |       &#9744;         |       &#9744;         |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)              |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |       &#9744;         |       &#9744;         |
