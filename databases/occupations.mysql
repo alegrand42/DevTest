@@ -1,0 +1,30 @@
+# Pivot the Occupation column in OCCUPATIONS so that each Name is sorted alphabetically and displayed underneath its corresponding Occupation. The output column headers should be Doctor, Professor, Singer, and Actor, respectively.
+#
+#Note: Print NULL when there are no more names corresponding to an occupation.
+#
+#Sample Output
+#
+#Jenny    Ashley     Meera  Jane
+#Samantha Christeen  Priya  Julia
+#NULL     Ketty      NULL   Maria
+
+set @nb1=0;
+set @n2=0;
+set @n3=0;
+set @n4=0;
+select min(Doctor), min(Professor), min(Singer), min(Actor)
+from (
+select case
+when occupation = 'Doctor' then (@nb1:=@nb1+1)
+when occupation = 'Professor' then (@n2:=@n2+1)
+when occupation = 'Singer' then (@n3:=@n3+1)
+when occupation = 'Actor' then (@n4:=@n4+1)
+end as nbs,
+case when occupation = 'Doctor' then name end as Doctor,
+case when occupation = 'Professor' then name end as Professor,
+case when occupation = 'Singer' then name end as Singer,
+case when occupation = 'Actor' then name end as Actor
+from occupations
+order by name
+    ) f
+group by nbs;
