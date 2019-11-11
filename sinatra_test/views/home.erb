@@ -1,0 +1,16 @@
+<h2>Main Page</h2>
+<p>Posts.<a href='/db'>link</a>.</p>
+<p>First.<a href='/db/1'>link</a>.</p>
+
+<h4>Posts</h4>
+<ul>
+  <% @databases.each do |database| %>
+    <li><%= database[:title] %></li>
+  <% end %>
+</ul>
+<h4>Comments</h4>
+<ul>
+  <% @comments.each do |comment| %>
+    <li><%= comment %></li>
+  <% end %>
+</ul>

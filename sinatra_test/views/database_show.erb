@@ -1,0 +1,25 @@
+<h2>Database</h2>
+
+<a> Title </a>
+<p> <%= @database[:title] %> </p>
+<a> Content </a>
+<p> <%= @database[:content] %> </p>
+<a> Photo Url </a>
+<p>
+<%= display_image(@database[:photo]) %>
+</p>
+<a> Rating </a>
+<p> <%= @database[:rating] %> </p>
+
+<a> Comments </a>
+<ul>
+  <% @comment.each do |com| %>
+    <li><%= com %></li>
+  <% end %>
+</ul>
+<%= @params['id'] %>
+<form method="POST" action="/comment">
+  <p>Comment: <input type="text" name="text"></p>
+  <input type="hidden" name="database_id" value="<%= @params['id'] %>" />
+  <input type="submit">
+</form>

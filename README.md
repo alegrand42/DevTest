@@ -6,6 +6,7 @@
 - [x] Analytic reports.
 - [ ] Hrank.
 - [ ] Databases.
+- [ ] Sinatra.
 
 ## H Code
 
@@ -31,6 +32,7 @@
 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)                      |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Lisa Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)                    |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Minimum Distance](https://www.hackerrank.com/challenges/lisa-workbook/problem)                 |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Pangrams](https://www.hackerrank.com/challenges/pangram/problem)                               |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Quicksort1](https://www.hackerrank.com/challenges/quicksort1/problem)                          |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9745;         |
 | [Save The Prisonner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)           |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)         |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9744;         |
