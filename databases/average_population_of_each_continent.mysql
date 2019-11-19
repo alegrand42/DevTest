@@ -1,0 +1,6 @@
+select country.continent,
+floor(avg(city.population))
+from city
+inner join country
+on country.code = city.countrycode
+group by country.continent;
