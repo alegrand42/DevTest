@@ -1,0 +1,5 @@
+select sum(city.population)
+from city
+inner join country
+on country.code = city.countrycode
+where continent = 'Asia';
