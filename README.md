@@ -6,7 +6,8 @@
 - [x] Analytic reports.
 - [ ] Hrank.
 - [ ] Databases.
-- [ ] Sinatra.
+- [x] Sinatra.
+- [ ] Extra Tests.
 
 ## H Code
 
@@ -47,3 +48,8 @@
 | [Magic Square](https://www.hackerrank.com/challenges/staircase/problem)                         |    medium     |        &#9744;        |        &#9744;        |       &#9745;         |        &#9744;        |       &#9744;         |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                          |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+
+## Extra Tests
+| Challenge                                                                                       | Difficulty    |          Ruby         |       Javascript      |          Java         |     Elixir            |         Go            |
+| ----------------------------------------------------------------------------------------------- |:-------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------------|
+| HasBalencedBrackets                                                                             |    easy       |        &#9745;        |        &#9744;        |       &#9744;         |       &#9744;         |       &#9744;         |
