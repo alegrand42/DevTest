@@ -1,0 +1,102 @@
+# What is the CSS Box model and what are its elements?
+The CSS box model is used to define the design and layout of elements of CSS.
+The elements are:
+    Margin - It removes the area around the border. It is transparent.
+    Border - It represents the area around the padding
+    Padding - It removes the area around the content. It is transparent.
+    Content - It represents the content like text, images, etc.
+
+
+====================================
+|                                   |
+|        Margin                     |
+|        ======================     |
+|        |  Padding           |     |
+|        |  =========         |     |
+|        |  |Content|         |     |
+|        |  =========         |     |
+|        |                    |     |
+|        ======================     |
+=====================================
+
+# Img
+ <img src="paris.jpg" alt="Paris" class="center">
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+# Background
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#example1 {
+  background: url(img_tree.gif) left top no-repeat, url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+  padding: 15px;
+  background-size: 50px, 130px, auto;
+}
+</style>
+</head>
+<body>
+
+<div id="example1">
+  <h1>Lorem Ipsum Dolor</h1>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+  <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+</div>
+
+</body>
+</html>
+
+# What is the purpose of the z-index and how is it used?
+The z-index helps to specify the stack order of positioned elements that may overlap one another. The z-index default value is zero and can take on either a positive or negative number.
+An element with a higher z-index is always stacked above than a lower index.
+Z-Index can take the following values:
+    Auto: Sets the stack order equal to its parents.
+    Number: Orders the stack order.
+    Initial: Sets this property to its default value (0).
+    Inherit: Inherits this property from its parent element.
+
+# Name some CSS style components.
+Some CSS Style components are:
+    Selector
+    Property
+    Value
+
+# What is universal selector?
+Rather than selecting elements of a specific type, the universal selector quite simply matches the name of any element type −
+* { 
+   color: #000000; 
+}
+
+# What is Descendant Selector?
+Suppose you want to apply a style rule to a particular element only when it lies inside a particular element. As given in the following example, style rule will apply to <em> element only when it lies inside <ul> tag.
+ul em {
+   color: #000000; 
+}
+
+# What is class selector?
+You can define style rules based on the class attribute of the elements. All the elements having that class will be formatted according to the defined rule.
+.black {
+   color: #000000; 
+}
+This rule renders the content in black for every element with class attribute set to black in our document.
+
+# Can you make a class selector particular to an element type?
+You can make it a bit more particular. For example −
+h1.black {
+   color: #000000; 
+}
+This rule renders the content in black for only <h1> elements with class attribute set to black.
+
+
+# What is a child selector?
+Consider the following example −
+body > p {
+   color: #000000;
+}
+This rule will render all the paragraphs in black if they are direct child of <body> element. Other paragraphs put inside other elements like <div> or <td> would not have any effect of this rule.
+
