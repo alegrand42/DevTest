@@ -8,6 +8,7 @@
 - [ ] Databases.
 - [x] Sinatra.
 - [ ] Extra Tests.
+- [ ] Coding.
 
 ## H Code
 
