@@ -33,14 +33,33 @@ void _displayVectorNode(vector<Node> const &node){
         _displayNode(n);
 }
 
+int _minScore(vector<pair<int, int>> score){
+    int max = 0;
+    int val = 0;
+    for(auto res : score){
+        if (res.second > max){
+            max = res.second;
+            val = res.first;
+        }
+    }
+    return val;
+}
 
 int _findNode(int const pos, vector<Node> const &node, vector<int> const severed){
+    vector<pair<int, int>> analyze;
     for (auto& link : node[pos].link){
-            if (find(severed.begin(), severed.end(), link->pos) == severed.end())
-                return link->pos;
-            cerr << node[pos].pos << " " << link->pos << " - ";
+            pair<int, int> res;
+            if (find(severed.begin(), severed.end(), link->pos) == severed.end()){
+                res.first = link->pos;
+                res.second = 1;
+                //return link->pos;
+                if(link->isExit)
+                    res.second++;
+                analyze.push_back(res);
+            }
+            //cerr << node[pos].pos << " " << link->pos << " - ";
     }
-    cerr << endl;
+    return _minScore(analyze);
 }
 
 int main()
@@ -68,22 +87,13 @@ int main()
         n[EI].isExit = true;
     }
     _displayVectorNode(n);
-
-
-    // game loop
     while (1) {
         int SI; // The index of the node on which the Skynet agent is positioned this turn
         int index;
         cin >> SI; cin.ignore();
         index = SI;
-
-        // Write an action using cout. DON'T FORGET THE "<< endl"
-        // To debug: cerr << "Debug messages..." << endl;
-
         index = _findNode(SI, n, severed);
         severed.push_back(SI);
-    
-        // Example: 0 1 are the indices of the nodes you wish to sever the link between
         cout << SI << " " << index << endl;
     }
 }
