@@ -10,6 +10,16 @@ using namespace std;
  * the standard input according to the problem statement.
  **/
 
+class Car {
+    public:
+        int speed;
+        int distance;
+};
+
+bool isRed(int speed, int dist, int dur){
+    return (18 * dist) % (10 * speed * dur) >= (5 * speed * dur);
+}
+
 int main()
 {
     int speed;
@@ -30,11 +40,18 @@ int main()
         lights.push_back(light);
     }
     
+    /*
     for(auto light : lights){
         int newspeed = light.first / light.second * 3.6;
-        cerr << light.first << " " << light.second << " " << newspeed << endl;
-        if (newspeed >= speed)
-            speed = newspeed / 2;
+        cerr << "Dist: " << light.first << " Time: " << light.second << " Speed: " << newspeed << " Max speed: " << speed << endl;
     }
-    cout << speed << endl;
+    */
+    
+    for(int i = 0; i < lightCount; i++){
+        if (isRed(res, lights[i].first, lights[i].second)){
+            res--;
+            i=-1;
+        }
+    }
+    cout << res << endl;
 }
