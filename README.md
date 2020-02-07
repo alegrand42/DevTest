@@ -49,6 +49,11 @@
 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                      |    easy       |        &#9744;        |        &#9744;        |       &#9744;         |        &#9744;        |       &#9745;         |
 | [Magic Square](https://www.hackerrank.com/challenges/staircase/problem)                         |    medium     |        &#9744;        |        &#9744;        |       &#9745;         |        &#9744;        |       &#9744;         |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                          |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Min Max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                       |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Grading](https://www.hackerrank.com/challenges/grading/problem)                                |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)              |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)                              |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Breaking records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)       |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 
 ## Extra Tests
