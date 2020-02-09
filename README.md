@@ -54,6 +54,7 @@
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)              |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)                              |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Breaking records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)       |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
+| [Birthday Bar](https://www.hackerrank.com/challenges/the-birthday-bar)                          |    easy       |        &#9745;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    |    easy       |        &#9744;        |        &#9745;        |       &#9744;         |        &#9744;        |       &#9744;         |
 
 ## Extra Tests
